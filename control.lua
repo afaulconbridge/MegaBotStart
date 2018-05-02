@@ -5,6 +5,8 @@ script.on_event(defines.events.on_player_created, function(event)
 	items = {
 		{"power-armor-mk2", 1},
 		{"construction-robot", 50},
+		{"iron-plate", 1000},
+		{"copper-plate", 500},
 	}
 	armor = {
 		{"fusion-reactor-equipment"},
