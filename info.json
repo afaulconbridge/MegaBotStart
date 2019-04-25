@@ -1,8 +1,8 @@
 {
     "name": "UberBotStart",
-    "version": "0.1.1",
-    "factorio_version": "0.16",
-    "dependencies": [ "base >= 0.16" ],
+    "version": "0.1.2",
+    "factorio_version": "0.17",
+    "dependencies": [ "base >= 0.17" ],
     "title": "Uber Bot Start",
     "author": "Primogenitor",
     "contact": "",
